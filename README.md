@@ -3,4 +3,6 @@
   <p align="center">my bachelor thesis in computer science</p>
 </p>
 
-[Download PDF](./louvain-genetic-bachelor.pdf)
+[Download PDF](./louvain-genetic-bachelor.pdf).
+
+See also my implementation of Louvain in Rust [here](https://github.com/Splines/fast-louvain).
